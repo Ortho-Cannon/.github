@@ -163,4 +163,3 @@ PubMed API	- Source of medical literature data<br>
 •	Project Developers: Mike England(OrthoCannonAI & OrthoCannonFirebase) and Anderson Macharia Kinyua(OrthoCannon, OrthoCannonYOLO & yolo_docker)<br>
 •	Organization: Ortho-Cannon on GitHub<br>
 
-<img width="451" height="673" alt="image" src="https://github.com/user-attachments/assets/11af0e23-29cc-4e37-ba4d-79cf1c15adb2" />
